@@ -1,0 +1,51 @@
+{
+  "originHash" : "54dc8c873de166736e50cf2b0926b6fb09e0599d19e8732c950f77e307541008",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
+      }
+    },
+    {
+      "identity" : "cache",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hyperoslo/Cache.git",
+      "state" : {
+        "revision" : "24e47109e31b2031cb26e25cc1b81b607496066c",
+        "version" : "7.4.0"
+      }
+    },
+    {
+      "identity" : "mjrefresh",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CoderMJLee/MJRefresh.git",
+      "state" : {
+        "revision" : "535d39c86e592d73f8b8e75f9bf1eda62ca4a4ce",
+        "version" : "3.7.9"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "10d06f6a33bafae8c164fbfd1f03391f6d4692b3",
+        "version" : "5.20.0"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
+    }
+  ],
+  "version" : 3
+}
